@@ -10,6 +10,7 @@ import hello.core.member.MemoryMemberRepository;
 import hello.core.order.OrderService;
 import hello.core.order.OrderServiceImpl;
 
+//IoC 컨테이너, DI 컨테이너 (의존관계 주입)
 //  생성자 주입
 public class AppConfig {
 
