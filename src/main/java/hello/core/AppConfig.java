@@ -8,6 +8,7 @@ import hello.core.member.MemoryMemberRepository;
 import hello.core.order.OrderService;
 import hello.core.order.OrderServiceImpl;
 
+//  생성자 주입
 public class AppConfig {
 
     public MemberService memberService() {
