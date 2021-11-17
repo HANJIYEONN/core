@@ -13,7 +13,7 @@ import org.springframework.stereotype.Component;
 public class OrderServiceImpl implements OrderService {
 
 //    private final MemberRepository memberRepository = new MemoryMemberRepository();
-  //
+
     private final MemberRepository memberRepository;
     private final DiscountPolicy discountPolicy;
 
